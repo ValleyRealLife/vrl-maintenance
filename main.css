@@ -16,6 +16,16 @@ img {
     object-fit: cover;
     display: block;
 }
+/* aside a {
+    text-decoration: none;
+    transition: border .4s ease-in-out;
+    span {
+        border: none;
+    }
+}
+aside a:hover {
+    border-bottom: 2px solid #333;
+} */
 
 .container {
     background-color: #eee;
